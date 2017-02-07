@@ -1,6 +1,14 @@
 ### Gradle ###
 .gradle
 build/
+bin/
+doc/
+lib/
+log/
+
+### testNG ###
+test-output/
+test-output-tests/
 
 # Eclipse specific files/directories
 .classpath
