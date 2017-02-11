@@ -1,4 +1,4 @@
-package chapter02.item1;
+package chapter02.item01;
 
 public class Programmer {
 
