@@ -1,4 +1,4 @@
-package chapter04.item14;
+package chapter04.item13;
 
 public class Point {
 
